@@ -1,0 +1,23 @@
+Fetched housing data.
+Dataset stored at /root/mle-training/data/raw/housing.
+Loaded housing data.
+Preprocessing housing data...
+Preprocessed train and test datasets stored at /root/mle-training/data/processed.
+Loaded training data
+Training completed
+Loaded training data
+Training completed
+Models stored at /root/mle-training/artifacts.
+Loaded test data
+Loaded Models
+lin_model=[49237.94888033504, 4477835762.283674, 66916.63292697619]
+tree_model=[49237.94888033504, 4477835762.283674, 66916.63292697619]
+forest_model=[49237.94888033504, 4477835762.283674, 66916.63292697619]
+grid_search_model=[49237.94888033504, 4477835762.283674, 66916.63292697619]
+Fetched housing data.
+Dataset stored at /root/mle-training/dataset/raw/housing.
+Loaded housing data.
+Preprocessing housing data...
+Preprocessed train and test datasets stored at /root/mle-training/data/processed.
+Loaded training data
+Training completed
